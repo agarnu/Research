@@ -1,8 +1,7 @@
 # Research
 
 Research articles on agentic AI systems — co-authored by Alberto García Núñez and Claude, grounded
-in direct, hands-on work building and operating a real multi-agent system (elixir-crane) over
-several months.
+in direct, hands-on work building and operating real multi-agent systems.
 
 ## What this is
 
@@ -14,8 +13,7 @@ in each piece, not as a disclaimer but as the honest boundary of what the eviden
 meant to be directly useful, not just descriptive), and academic/professional readers interested in
 first-hand, practitioner-level observations of agentic systems in practice.
 
-**Authorship:** every piece is co-authored by the human and the AI collaborator who worked on it.
-Neither claims sole credit.
+**Authorship:** every piece is co-authored by the human and the AI collaborator(s) who worked on it.
 
 ## Contents
 
